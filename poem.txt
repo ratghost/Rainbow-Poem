@@ -5,5 +5,7 @@ Pink
 Orange
 <added this change here:  Green>
 
+Next, I'm adding the color Black.
+
 Meet ROY G. Biv
 
