@@ -3,5 +3,7 @@ The Rainbow
 Purple
 Pink
 Orange
+<added this change here:  Green>
+
 Meet ROY G. Biv
 
